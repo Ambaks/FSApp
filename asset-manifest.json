@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/FSApp/static/css/main.e6c13ad2.css",
-    "main.js": "/FSApp/static/js/main.25947243.js",
-    "static/js/488.6d5d2703.chunk.js": "/FSApp/static/js/488.6d5d2703.chunk.js",
-    "index.html": "/FSApp/index.html",
-    "main.e6c13ad2.css.map": "/FSApp/static/css/main.e6c13ad2.css.map",
-    "main.25947243.js.map": "/FSApp/static/js/main.25947243.js.map",
-    "488.6d5d2703.chunk.js.map": "/FSApp/static/js/488.6d5d2703.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.7d963ad3.js",
+    "static/js/488.6d5d2703.chunk.js": "/static/js/488.6d5d2703.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.7d963ad3.js.map": "/static/js/main.7d963ad3.js.map",
+    "488.6d5d2703.chunk.js.map": "/static/js/488.6d5d2703.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.25947243.js"
+    "static/js/main.7d963ad3.js"
   ]
 }
